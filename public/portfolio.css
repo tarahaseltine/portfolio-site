@@ -72,8 +72,11 @@ h1 {
 /** PARAGRAPH **/
 
 h3 {
+  padding: 1em;
+  width: 100%;
+  background-color: turquoise;
   text-align: center;
-  padding-top: 5em;
+  /*padding-top: 5em;*/
 
 }
 
@@ -81,12 +84,14 @@ h3 {
   text-align: center;
   width: 30em;
   margin-left: 28.2em;
+  margin-bottom: 2em;
+  margin-top: 2em;
   border: dotted pink;
   padding: 13px;
 }
 
 img#sprinkles {
-  transform: rotate(90deg);
-  margin-left: 42%;
-  padding-top: 5em;
+  transform: rotate(360deg);
+  margin-left: 28%;
+  padding-top: 2em;
 }
